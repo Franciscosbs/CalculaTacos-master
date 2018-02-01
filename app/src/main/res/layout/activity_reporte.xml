@@ -67,4 +67,14 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="104dp" />
 
+    <Button
+        android:id="@+id/btn_search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/texto_fecha_fin"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="38dp"
+        android:drawableLeft="@android:drawable/ic_search_category_default"
+        android:text="Buscar" />
+
 </RelativeLayout>
